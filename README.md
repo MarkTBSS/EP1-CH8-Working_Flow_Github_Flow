@@ -1,4 +1,2 @@
 Line 1
-Power by KBTG Bootcamp
-Feature A
-Feature B
+Feature C
